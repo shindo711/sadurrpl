@@ -1,5 +1,5 @@
 # sadurrpl
 Materi Analisa dan Perancangan PL
-NIM : 1811500007
-Nama : Deo Shindo
+NIM : 1811500053
+Nama : YONGKI SANJAYA
 Kel : TI6J
